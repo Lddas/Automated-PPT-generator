@@ -1,0 +1,10 @@
+input_0_A = "C:/Users/Admin/Downloads/Screenshot 2024-07-11 150747.png"
+input_0_B = "2 et 3 oct"
+input_1_A = "MAMAD"
+input_1_B = "234"
+input_1_C = "2"
+input_1_D = "1"
+input_1_E = "Du 2 et 3 oct"
+input_multiple_hotels = True
+input_koutoubia_5 = "60 doubles" 
+input_sofitel_3 = "15 simples"  

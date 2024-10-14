@@ -1,0 +1,251 @@
+{
+    "HOTELS":{},
+
+    "PLUSIEURS HOTELS": {
+        "ppt": "liste_HOTELS.pptx",
+        "index": 2,
+        "nb_slides": 1
+    },
+    "LES JARDINS DE LA KOUTOUBIA 5*": {
+        "ppt": "liste_HOTELS.pptx",
+        "index": 3,
+        "nb_slides": 5
+    },
+    "SOFITEL MARRAKECH PALAIS IMPERIAL 5*": {
+        "ppt": "liste_HOTELS.pptx",
+        "index": 8,
+        "nb_slides": 9
+    },
+    "BARCELO PALMERAIE 5*": {
+        "ppt": "liste_HOTELS.pptx",
+        "index": 17,
+        "nb_slides": 11
+    },
+    "KENZI ROSE GARDEN HOTEL 5*": {
+        "ppt": "liste_HOTELS.pptx",
+        "index": 28,
+        "nb_slides": 14
+    },
+
+
+
+
+
+
+
+
+
+    "ACTIVITES":{},
+
+    "REUNION A L'HOTEL KOUTOUBIA": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 2,
+        "nb_slides": 1,
+        "image": [7, 3]
+    },
+    "REUNION A L'HOTEL SOFITEL": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 3,
+        "nb_slides": 1,
+        "image": [7, 3]
+    },
+    "DEPART EN 4X4": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 4,
+        "nb_slides": 3,
+        "image": [7, 5]
+    },
+    "DECOUVERTE DU DESERT EN 4X4": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 7,
+        "nb_slides": 2,
+        "image": [7, 5]
+    },
+    "COURS DE CUISINE MAROCAINE": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 9,
+        "nb_slides": 4,
+        "image": [7, 2]
+    },
+    "TEMPS LIBRE DANS LES SOUKS": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 13,
+        "nb_slides": 3,
+        "image": [8, 5]
+    },
+    "PLENIERE ET REUNIONS HOTEL KOUTOUBIA": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 16,
+        "nb_slides": 3,
+        "image": [7, 3]
+    },
+    "ACTIVITES À LA CARTE": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 19,
+        "nb_slides": 3,
+        "image": [8, 8]
+    },
+    "CALECHE": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 23,
+        "nb_slides": 1,
+        "image": [8, 9]
+    },
+    "JARDINS MAJORELLE": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 24,
+        "nb_slides": 3,
+        "image": [8, 7]
+    },
+    "MUSEE YVES SAINT LAURENT": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 27,
+        "nb_slides": 3,
+        "image": [8, 7]
+    },
+    "PALAIS DE LA BAHIA": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 30,
+        "nb_slides": 2,
+        "image": [9, 1]
+
+    },
+    "DE LA MEDERSA BEN YOUSSEF": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 32,
+        "nb_slides": 4,
+        "image": [9, 2]
+    },
+    "BALADE EN QUADS": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 36,
+        "nb_slides": 1,
+        "image": [9, 3]
+    },
+    "TYROLIENNES AU DOMAINE D'AMANAR": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 37,
+        "nb_slides": 4,
+        "image": [9, 4]
+    },
+    "TREK DANS L'ATLAS": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 41,
+        "nb_slides": 3,
+        "image": [9, 5]
+    },
+    "APRES MIDI LIBRE": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 45,
+        "nb_slides": 1,
+        "image": [7, 7]
+    },
+
+
+
+
+
+
+
+   "REPAS":{},
+
+   "LODGE DU DESERT": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 6,
+        "nb_slides": 6,
+        "image" : [7, 6]
+    },
+    "KASBAH DU TOUBKAL": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 35,
+        "nb_slides": 3,
+        "image" : [8, 12]
+    },
+    "DINER A L'HOTEL KOUTOUBIA": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 2,
+        "nb_slides": 2,
+        "image" : [7, 11]
+    },
+    "DINER A L'HOTEL SOFITEL": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 4,
+        "nb_slides": 2,
+        "image" : [7, 11]
+    },
+    "SOIREE DANS LE DESERT": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 12,
+        "nb_slides": 3,
+        "image" : [8, 6]
+    },
+    "PALAIS JAD MAHAL": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 15,
+        "nb_slides": 5,
+        "image" : [8, 1]
+    },
+    "DEJEUNER A L'HOTEL": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 22,
+        "nb_slides": 1,
+        "image" : [8, 11]
+    },
+    "PALAIS GHARNATA": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 26,
+        "nb_slides": 5,
+        "image" : [7, 4]
+    },
+    "PALAIS DAR SOUKKAR": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 30,
+        "nb_slides": 5,
+        "image" : [7, 8]
+    },
+    "DAR ZELLIJ": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 38,
+        "nb_slides": 4,
+        "image" : [8, 4]
+    },
+    "AFTER AU BABOUCHKA": {
+        "ppt": "liste_REPAS.pptx",
+        "index": 20,
+        "nb_slides": 2,
+        "image" : [8, 2]
+    },
+    "DINER A L'HOTEL": {
+        "ppt": "FALSE",
+        "image" : [7, 11]
+    },
+
+
+
+
+
+
+    "DIVERS":{},
+
+    "ARRIVEE": {
+        "ppt": "FALSE",
+        "image" : [7, 1]
+    },
+    "DEPART": {
+        "ppt": "Slides_DEBUT_FIN.pptx",
+        "index": 8,
+        "nb_slides": 1,
+        "image" : [8, 10]
+    },
+    "PETIT DEJEUNER A L'HOTEL": {
+        "ppt": "FALSE",
+        "image" : [7, 9]
+    },
+    "ACTIVITES A LA CARTE": {
+        "ppt": "liste_ACTIVITES.pptx",
+        "index": 44,
+        "nb_slides": 1,
+        "image" : [8, 8]
+    }
+
+}

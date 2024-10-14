@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Automated PPT Generator is a Python-based application designed to generate customized PowerPoint presentations based on user inputs. This tool is particularly tailored for creating presentations related to specific content, including event details, hotel selections, and other relevant information.
+The Automated PPT Generator is a Python-based application designed to generate customized PowerPoint presentations based on user inputs. This tool is tailored for creating presentations related to specific content, including event details, hotel selections, and other relevant information.
 
 Features
 

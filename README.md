@@ -28,14 +28,10 @@ Getting Started
 
 Prerequisites
 
-	•	Python 3.x
 	•	Required Libraries:
 	•	tkinter (for the user interface)
 	•	python-pptx (for creating and modifying PowerPoint files)
 	•	json (for handling input data)
 
- Customization
-
-	•	If you want to adapt this tool for different PowerPoint templates, modify the corresponding paths and slide configurations in the code. Look for the functions that handle slide creation and adjust the content as needed.
 
   
